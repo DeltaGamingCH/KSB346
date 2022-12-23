@@ -38,7 +38,7 @@ Wir bauten während des Script-erstellung überall "echo" ein, damit wir einen O
 Zwei Buckets werden bei der Ausführung des Script erstelltn, sobald ein Bild dazu existiert.
 Das Bild wird anschliessend in der Pixelzahl verkleinert, wird ausgegeben und die Buckets werden wieder gelöscht.
 
-## Fazit
+## Reflexion
 Nicht nur war es sehr anstrengend am Thema zu arbeiten, sondern es war auch sehr Zeitaufwendig. 
 Unglücklicherweise ist Claude nicht zurzeit des Projekts erreichbar gewesen, ich die letzten zwei Tage vor Abgabe krank gewesen. Mit diesen Umständen beschlossen wir auf die Klasse zu zugehen und nachzuhaken, wie weit unsere Mitschüler waren. Keiner der Gruppen hatte am Abgabetag ein funktionierendes Projekt, andere wussten nicht weiter. 
 Wir kamen als Klasse zusammen und begannen zusammen am Projekt zu arbeiten. Für die Dokumentation beschlossen wir, jeder diese einzeln zu machen. 
